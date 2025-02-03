@@ -28,7 +28,7 @@ export default function Connect() {
           transition={{ duration: 1.5 }}
         >
           <a
-            href="https://www.instagram.com/amesra_4/"
+            href="https://www.instagram.com/_.rist_/"
             target="_blank"
             rel="noopener noreferrer"
             className="transition transform hover:scale-125 hover:shadow-lg"
@@ -40,7 +40,7 @@ export default function Connect() {
             />
           </a>
           <a
-            href="https://github.com/Arsema212"
+            href="https://github.com/Rist-A"
             target="_blank"
             rel="noopener noreferrer"
             className="transition transform hover:scale-125 hover:shadow-lg"
@@ -52,7 +52,7 @@ export default function Connect() {
             />
           </a>
           <a
-            href="https://www.linkedin.com/in/arsema-mengistu-a81809309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            href="https://www.linkedin.com/in/wubrist-alemu-457b40279/"
             target="_blank"
             rel="noopener noreferrer"
             className="transition transform hover:scale-125 hover:shadow-lg"
@@ -74,7 +74,7 @@ export default function Connect() {
             />
           </a>
           <a
-            href="https://t.me/Arsema2124"
+            href="https://t.me/rist_621"
             target="_blank"
             rel="noopener noreferrer"
             className="transition transform hover:scale-125 hover:shadow-lg"
@@ -86,7 +86,7 @@ export default function Connect() {
             />
           </a>
           <a
-            href="https://x.com/AmesraMeng60449"
+            href="https://twitter.com"
             target="_blank"
             rel="noopener noreferrer"
             className="transition transform hover:scale-125 hover:shadow-lg"
