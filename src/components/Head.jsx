@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import React, { useState, useEffect } from "react";
 import styled from "styled-components";
-import arsemapic from "../assets/arsemapic/arsemapic.jpg"
+import uppdatedpic from "../assets/pp/uppdatedpic.png"
 
 const Box = styled(motion.div)`
   position: relative;
@@ -101,7 +101,7 @@ export default function Head() {
                 className="text-8xl sm:text-4xl relative z-10 text-[#FF6452] max-sm:text-[50px]"
                 style={{ fontFamily: "Montserrat" }}
               >
-                Arsema Mengistu.
+                Wubrist Alemu.
               </h1>
               <h1
                 className="text-4xl sm:block hidden"
@@ -128,7 +128,7 @@ export default function Head() {
             >
               <img
                 className="pic rounded-full shadow-lg w-40 h-40 sm:w-48 sm:h-48"
-                src={arsemapic}
+                src={uppdatedpic}
                 alt="Profile Pic"
               />
             </motion.div>
