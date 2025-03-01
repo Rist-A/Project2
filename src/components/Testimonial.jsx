@@ -38,7 +38,7 @@ export default function Testimonial() {
          
             <h6 className="mb-2 font-semibold">Lemlem Hagos</h6>
             <p className="mb-4 ">
-              "Arsema has demonstrated remarkable dedication and a strong aptitude for learning programming languages, particularly C++ and Java. Their problem-solving skills, logical thinking, and ability to grasp complex concepts quickly have set them apart in my classes at Addis Ababa University. Arsema's passion for coding and continuous improvement make them a promising programmer with a bright future ahead. "
+              "Wubrist has demonstrated remarkable dedication and a strong aptitude for learning programming languages, particularly C++ and Java. Their problem-solving skills, logical thinking, and ability to grasp complex concepts quickly have set them apart in my classes at Addis Ababa University. Arsema's passion for coding and continuous improvement make them a promising programmer with a bright future ahead. "
             </p>
            
             <span className="mr-2 mt-4 rounded bg-neutral-800 px-2 py-1 font-medium text-coral-red">
@@ -72,16 +72,16 @@ export default function Testimonial() {
             transition={{ duration: 1.5 }}
           >
           
-            <h6 className="mb-2 font-semibold">Getachew kassahun</h6>
+            <h6 className="mb-2 font-semibold">Delil Akmel</h6>
             <p className="mb-4 ">
-              "It has been a pleasure teaching Arsema during their time at high school. Wubrist consistently demonstrated a strong understanding of the subjects they studied, with a particular interest in technology and problem-solving. They stand out as an exceptional student who not only excels in their academic work but also contributes positively to class discussions and group activities."
+              "It has been a pleasure teaching Wubrist during their time at high school. Wubrist consistently demonstrated a strong understanding of the subjects they studied, with a particular interest in technology and problem-solving. They stand out as an exceptional student who not only excels in their academic work but also contributes positively to class discussions and group activities."
             </p>
         
             <span className="mr-2 mt-4 rounded bg-neutral-800 px-2 py-1 font-medium text-coral-red">
                Director
             </span>
             <span className="mr-2 mt-4 rounded bg-neutral-800 px-2 py-1 font-medium text-coral-red">
-              Kids Garden School
+             Repi Abel School
             </span>
           </motion.div>
         </motion.div>

@@ -1,7 +1,7 @@
 import React from "react";
 import emailjs from "@emailjs/browser";
 import { motion } from "framer-motion";
-import arsemapic from "../assets/arsemapic/arsemapic.jpg"
+import uppdatedpic from "../assets/pp/uppdatedpic.png"
 const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -9,10 +9,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_omkvbva", //  EmailJS service ID
-        "template_b7xtxet", //  EmailJS template ID
+        "service_gnbot9", //  EmailJS service ID
+        "template_ueti4fg", //  EmailJS template ID
         form,
-        "vuI7tzS8OXXDHM6dL" //  EmailJS public key
+        "t_WRSM-HmIiK_F_1e" //  EmailJS public key
       )
       .then(
         (result) => {
@@ -62,7 +62,7 @@ const Contact = () => {
                 id="name"
                 name="user_name" // EmailJS field mapping
                 type="text"
-                placeholder="Arsema Mengistu"
+                placeholder="Wubrist Alemu"
                 className="w-full text-black p-4 rounded-lg border border-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
                 required
               />
@@ -122,7 +122,7 @@ const Contact = () => {
         >
           <div className="flex flex-col items-center lg:items-start">
             <motion.img
-              src={arsemapic}
+              src={uppdatedpic}
               alt="Profile"
               className="w-24 h-24 rounded-full mb-6"
               whileHover={{ scale: 1.1, rotate: 10 }}
